@@ -1,1 +1,2 @@
 # huro
+moddableフォルダがESP32側のソースコード、ws_serverフォルダがwsサーバのソースコード、bot_serverがLINEBotを動かしているサーバのソースコードです。
